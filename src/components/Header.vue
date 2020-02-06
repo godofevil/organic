@@ -98,6 +98,8 @@
                 font-size: 40px
                 line-height: normal
                 padding-bottom: 0
+        .logo img
+            width: 50px
 
     @media (max-width: 380px)
         .header__text
